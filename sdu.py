@@ -144,4 +144,4 @@ def current_gpa(username, password, retries=3):
 
 
 if __name__ == '__main__':
-    current_gpa('170107049', 'Aidyn1801')
+    current_gpa('', '')
